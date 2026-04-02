@@ -1,0 +1,17 @@
+order_id,customer_id,product_id,order_date,quantity,order_status
+O1001,C001,P001,2025-05-01,2,delivered
+O1002,C002,P003,2025-05-02,1,shipped
+O1003,C003,P002,2025-05-03,3,delivered
+O1004,C001,P004,2025-05-03,1,cancelled
+O1005,C004,P006,2025-05-04,1,delivered
+O1006,C005,P005,2025-05-05,5,pending
+O1007,C006,P008,2025-05-05,1,delivered
+O1008,C007,P010,2025-05-06,10,delivered
+O1009,C008,P007,2025-05-06,2,shipped
+O1010,C009,P002,2025-05-07,1,delivered
+O1011,C001,P999,2025-05-08,1,delivered
+O1012,C002,P001,2025-05-08,-1,delivered
+O1013,C003,P005,bad-date,2,delivered
+O1014,,P003,2025-05-09,1,delivered
+O1015,C004,P004,2025-05-09,1,unknown
+O1002,C002,P003,2025-05-02,1,shipped

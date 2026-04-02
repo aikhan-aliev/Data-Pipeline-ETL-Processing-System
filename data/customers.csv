@@ -1,0 +1,13 @@
+customer_id,full_name,email,country,signup_date
+C001,Alice Brown,alice.brown@example.com,Hungary,2025-01-10
+C002,Bob Smith,bob.smith@example.com,Germany,2025-01-15
+C003, Carla Gomez ,carla.gomez@example.com,Spain,2025-02-01
+C004,Deniz Aliyev,deniz.aliy@example.com,Azerbaijan,2025-02-12
+C005,Eva Novak,eva.novak@example.com,Hungary,2025-03-02
+C006,Farid Hasan,farid.hasan@example.com,Turkey,2025-03-05
+C007,Gina Rossi,gina.rossi@example.com,Italy,2025-03-21
+C008,Hassan Karim,hassan.karim@example.com,UAE,2025-04-01
+C009,Invalid Email,invalid-email,Hungary,2025-04-08
+,Missing Id,missing.id@example.com,France,2025-04-12
+C010,Julia Kovacs,,Hungary,2025-04-15
+C011,Karl Meier,karl.meier@example.com,Germany,bad-date

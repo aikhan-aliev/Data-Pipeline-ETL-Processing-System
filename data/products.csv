@@ -1,0 +1,12 @@
+product_id,product_name,category,unit_price,is_active
+P001,Laptop Sleeve,accessories,25.5,1
+P002,Wireless Mouse,electronics,18.99,1
+P003,Mechanical Keyboard,electronics,79.0,1
+P004,USB-C Dock,electronics,59.5,1
+P005,Notebook Set,stationery,12.0,1
+P006,Office Chair,furniture,140.0,1
+P007,Desk Lamp,furniture,34.9,1
+P008,Noise Cancelling Headphones,electronics,199.99,1
+P009,Water Bottle,accessories,-5.0,1
+P010, Pen Pack ,stationery,5.5,1
+,Broken Product,unknown,20.0,1

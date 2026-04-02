@@ -1,0 +1,14 @@
+{"payment_id": "PAY001", "order_id": "O1001", "payment_date": "2025-05-01", "amount_paid": 51.0, "payment_status": "paid", "payment_method": "card"}
+{"payment_id": "PAY002", "order_id": "O1002", "payment_date": "2025-05-02", "amount_paid": 79.0, "payment_status": "paid", "payment_method": "card"}
+{"payment_id": "PAY003", "order_id": "O1003", "payment_date": "2025-05-03", "amount_paid": 56.97, "payment_status": "paid", "payment_method": "paypal"}
+{"payment_id": "PAY004", "order_id": "O1004", "payment_date": "2025-05-03", "amount_paid": 0.0, "payment_status": "refunded", "payment_method": "card"}
+{"payment_id": "PAY005", "order_id": "O1005", "payment_date": "2025-05-04", "amount_paid": 140.0, "payment_status": "paid", "payment_method": "bank_transfer"}
+{"payment_id": "PAY006", "order_id": "O1006", "payment_date": "2025-05-05", "amount_paid": 60.0, "payment_status": "paid", "payment_method": "card"}
+{"payment_id": "PAY007", "order_id": "O1007", "payment_date": "2025-05-05", "amount_paid": 199.99, "payment_status": "paid", "payment_method": "card"}
+{"payment_id": "PAY008", "order_id": "O1008", "payment_date": "2025-05-06", "amount_paid": 55.0, "payment_status": "paid", "payment_method": "cash"}
+{"payment_id": "PAY009", "order_id": "O1009", "payment_date": "2025-05-06", "amount_paid": 69.8, "payment_status": "failed", "payment_method": "card"}
+{"payment_id": "PAY010", "order_id": "O1011", "payment_date": "2025-05-08", "amount_paid": 18.99, "payment_status": "paid", "payment_method": "card"}
+{"payment_id": "PAY011", "order_id": "O1012", "payment_date": "2025-05-08", "amount_paid": -10.0, "payment_status": "paid", "payment_method": "card"}
+{"payment_id": "PAY012", "order_id": "O1013", "payment_date": "bad-date", "amount_paid": 24.0, "payment_status": "paid", "payment_method": "card"}
+{"payment_id": "PAY013", "order_id": "O9999", "payment_date": "2025-05-10", "amount_paid": 100.0, "payment_status": "paid", "payment_method": "card"}
+{"payment_id": "PAY014", "order_id": "O1015", "payment_date": "2025-05-10", "amount_paid": 59.5, "payment_status": "unknown", "payment_method": "crypto"}
