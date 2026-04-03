@@ -134,8 +134,10 @@ valid_products.write.mode("overwrite").saveAsTable("silver_products")
 valid_orders.write.mode("overwrite").saveAsTable("silver_orders")
 valid_payments.write.mode("overwrite").saveAsTable("silver_payments")
 
-silver_quarantine.write.mode("overwrite").saveAsTable("silver_quarantine")
-
+silver_quarantine.write \
+    .mode("overwrite") \
+    .option("mergeSchema", "true") \
+    .saveAsTable("silver_quarantine")
 # DEBUG
 
 print("Customers:", valid_customers.count())
